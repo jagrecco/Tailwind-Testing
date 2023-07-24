@@ -4,7 +4,7 @@
 function App() {
   return (
     <div className="App">
-      <h1 className="text-fuchsia-700">Hola</h1>
+      <h1 className="text-fuchsia-700 text-center font-extrabold text-4xl">Hola</h1>
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
